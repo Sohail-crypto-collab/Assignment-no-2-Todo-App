@@ -74,6 +74,27 @@ https://github.com/user-attachments/assets/e0e171d2-4388-4596-a09f-ad92b4a4f1e3
 - Form validation with Zod
 - Responsive design for all screen sizes
 
+Components:
+TaskForm: Handles task creation and editing
+TaskList: Displays tasks with sorting and filtering
+TaskFilters: Provides filtering options
+ThemeProvider: Manages dark/light theme
+ThemeProvider: Manages dark/light theme### UI Components
+
+- [shadcn/ui](https://ui.shadcn.com/) – Re-usable components built using Radix UI and Tailwind CSS
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for rapid UI development
+- [Radix](https://www.radix-ui.com/) – Primitives like modal, popover, etc. to build a stellar user experience
+
+### Hooks and Utilities
+
+- [React Hook Form](https://react-hook-form.com/) – Flexible and extensible forms with easy-to-use validation
+- [Zod](https://zod.dev/) – TypeScript-first schema validation with static type inference
+- [date-fns](https://date-fns.org/) – Modern JavaScript date utility library
+====== 
+ThemeProvider: Manages dark/light theme
+SearchBar: Provides search functionality
+TaskItem: Represents a single task with actions
+
 
 ### Code Quality
 
