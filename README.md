@@ -1,6 +1,6 @@
-<a href="https://next-mobbin-clone.vercel.app">
-  <img alt="next mobbin clone" src="public/og.png">
-  <h1 align="center">Next Mobbin Clone</h1>
+<a href="https://assignment-no-2-todo-app.vercel.app/">
+  <img alt="Todo App" src="public/og.png">
+  <h1 align="center">Todo App</h1>
 </a>
 
 <p align="center">
@@ -20,11 +20,8 @@
 
 ## Introduction
 
-This project has been undertaken with the goal of enhancing my skills in user interface (UI) development and putting the cutting-edge features of shadcn-ui to the test. 
+I've created a complete, production-ready todo list application with all the requested features. Here's a breakdown of the implementation:
 <br/>
-Inspired by the clean design of mobbbin.com, I am recreating its essence using the powerful Next.js 14 framework to optimize the visual experience.
-
-Components mainly used: Carousel, CommandDialog, Dropdown Menu, HoverCard, Checkbox.
 
 > [!NOTE]  
 > This project contains UI Only - Just for testing shadcn's components.
@@ -34,7 +31,7 @@ Components mainly used: Carousel, CommandDialog, Dropdown Menu, HoverCard, Check
 Clone & create this repo locally with the following command:
 
 ```bash
-npx create-next-app my-name-project --example "https://github.com/mickasmt/next-mobbin-clone"
+npx create-next-app my-name-project --example "https://github.com/Sohail-crypto-collab/Assignment-no-2-Todo-App"
 ```
 
 1. Install dependencies using pnpm:
