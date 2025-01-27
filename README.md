@@ -1,13 +1,8 @@
 <a href="https://next-mobbin-clone.vercel.app">
   <img alt="next mobbin clone" src="public/ui of todo app.PNG">
-  <h1 align="center">Next Mobbin Clone</h1>
+  <h1 align="center">Todo App</h1>
 </a>
 
-<p align="center">
-  <a href="https://twitter.com/miickasmt">
-    <img src="https://img.shields.io/twitter/follow/miickasmt?style=flat&label=miickasmt&logo=twitter&color=0bf&logoColor=fff" alt="Mickasmt Twitter follower count" />
-  </a>
-</p>
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
@@ -22,19 +17,17 @@
 
 This project has been undertaken with the goal of enhancing my skills in user interface (UI) development and putting the cutting-edge features of shadcn-ui to the test. 
 <br/>
-Inspired by the clean design of mobbbin.com, I am recreating its essence using the powerful Next.js 14 framework to optimize the visual experience.
 
-Components mainly used: Carousel, CommandDialog, Dropdown Menu, HoverCard, Checkbox.
 
-> [!NOTE]  
-> This project contains UI Only - Just for testing shadcn's components.
+<!-- > [!NOTE]  
+> This project contains UI Only - Just for testing shadcn's components. -->
 
 ## Installation
 
 Clone & create this repo locally with the following command:
 
 ```bash
-npx create-next-app my-name-project --example "https://github.com/mickasmt/next-mobbin-clone"
+npx create-next-app my-name-project --example "https://github.com/Sohail-crypto-collab/Assignment-no-2-Todo-App"
 ```
 
 1. Install dependencies using pnpm:
@@ -49,19 +42,10 @@ pnpm install
 pnpm dev
 ```
 
-## Roadmap
-
-- [x] ~Fix collision for Hover Card on Y axis in search command dialog~
-- [x] ~Detect keyboard for to display HoverCard in search command dialog~
-- [ ] Fix fade carousel after resize screen
-- [ ] Add framer-motion on HoverCard on carousel buttons tags
-- [ ] Add auth pages
-- [ ] Add pricing page
-
 
 ## Tech Stack + Features
 
-https://github.com/mickasmt/next-mobbin-clone/assets/62285783/098dc343-a3b1-4d9b-9574-7723eeba5611
+https://github.com/user-attachments/assets/e0e171d2-4388-4596-a09f-ad92b4a4f1e3
 
 ### Frameworks
 
