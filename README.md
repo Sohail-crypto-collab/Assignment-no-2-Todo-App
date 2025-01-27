@@ -1,4 +1,4 @@
-<a href="https://next-mobbin-clone.vercel.app">
+<a href="https://assignment-no-2-todo-app.vercel.app">
   <img alt="next mobbin clone" src="public/ui of todo app.PNG">
   <h1 align="center">Todo App</h1>
 </a>
