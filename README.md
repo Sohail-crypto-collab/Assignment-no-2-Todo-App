@@ -74,12 +74,23 @@ https://github.com/user-attachments/assets/e0e171d2-4388-4596-a09f-ad92b4a4f1e3
 - Form validation with Zod
 - Responsive design for all screen sizes
 
-Components:
-TaskForm: Handles task creation and editing
-TaskList: Displays tasks with sorting and filtering
-TaskFilters: Provides filtering options
-ThemeProvider: Manages dark/light theme
-ThemeProvider: Manages dark/light theme### UI Components
+### Components:
+
+- TaskForm: Handles task creation and editing
+- TaskList: Displays tasks with sorting and filtering
+- TaskFilters: Provides filtering options
+- ThemeProvider: Manages dark/light theme
+- Priority levels (high/medium/low) with color coding
+- Categories (work, personal, shopping, health, other)
+- Due date selection with calendar
+- Search and filter functionality
+- Overdue task indicators
+- Task completion tracking
+- Delete confirmation dialog
+- Theme toggle (dark/light)
+- Responsive layout
+- Smooth animations and transitions
+
 
 - [shadcn/ui](https://ui.shadcn.com/) – Re-usable components built using Radix UI and Tailwind CSS
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for rapid UI development
@@ -102,14 +113,6 @@ TaskItem: Represents a single task with actions
 - [Prettier](https://prettier.io/) – Opinionated code formatter for consistent code style
 - [ESLint](https://eslint.org/) – Pluggable linter for Next.js and TypeScript
 
-### Miscellaneous
 
-- [Vercel Analytics](https://vercel.com/analytics) – Track unique visitors, pageviews, and more in a privacy-friendly way
 
-## Author
 
-Created by [@miickasmt](https://twitter.com/miickasmt) in 2024, released under the [MIT license](https://github.com/shadcn/taxonomy/blob/main/LICENSE.md).
-
-## Credits
-
-This project was inspired by the [Mobbin](https://mobbin.com/)'s website. 
