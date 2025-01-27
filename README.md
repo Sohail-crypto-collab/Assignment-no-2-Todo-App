@@ -55,14 +55,25 @@ https://github.com/user-attachments/assets/e0e171d2-4388-4596-a09f-ad92b4a4f1e3
 
 - [Vercel](https://vercel.com/) – Easily preview & deploy changes with git
 
-### UI
+### Core Features:
 
-- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework for rapid UI development
-- [Shadcn/ui](https://ui.shadcn.com/) – Re-usable components built using Radix UI and Tailwind CSS
-- [Framer Motion](https://framer.com/motion) – Motion library for React to animate components with ease
-- [Lucide](https://lucide.dev/) – Beautifully simple, pixel-perfect icons
-- [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) – Optimize custom fonts and remove external network requests for improved performance
-- [`ImageResponse`](https://nextjs.org/docs/app/api-reference/functions/image-response) – Generate dynamic Open Graph images at the edge
+- Task management (add, edit, delete, complete/incomplete)
+- Rich task data (title, description, due date, priority, category)
+- Local storage persistence
+- Sorting and filtering capabilities
+- Search functionality
+- Dark/light theme support
+
+### Technical Implementation:
+
+- Next.js 13 with App Router
+- TypeScript for type safety
+- Tailwind CSS for styling
+- shadcn/ui for UI components
+- Local storage for data persistence
+- Form validation with Zod
+- Responsive design for all screen sizes
+
 
 ### Code Quality
 
